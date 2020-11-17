@@ -1,0 +1,17 @@
+body {
+  background-color: #fff3b0;
+  color: #335c67;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+h1, h3 {
+  text-align: center;
+  font-size: 30px;
+}
