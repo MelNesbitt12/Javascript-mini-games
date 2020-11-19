@@ -1,0 +1,31 @@
+body {
+  background-color: #70a288;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: black;
+}
+
+
+.grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
+  width: 618px;
+  height: 618px;
+}
+
+.mole {
+  background-image: url('cartoonMole.png');
+  background-size: cover;
+}
