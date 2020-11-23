@@ -10,7 +10,7 @@
   }
 
   #game-board {
-    background-color: #CCC;
+    background-color: #efe9f4;
     width: 100vmin;
     height: 100vmin;
     display: grid;
@@ -20,11 +20,11 @@
   }
 
   .snake {
-    background-color: hsl(200, 100%, 50%);
+    background-color: #16bac5;
     border: .25vmin solid black;
   }
 
   .food {
-    background-color: hsl(50, 100%, 50%);
+    background-color: #5fbff9;
     border: .25vmin solid black;
   }
