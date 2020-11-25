@@ -1,27 +1,24 @@
-# connect-four
-A retro grid-based game in vanilla JavaScript, HTML and CSS
+# space-invaders
+A vanilla JavaScript game with HTML and CSS
 
 View the full walkthrough [here](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) 
 
 I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
 
-Connect Four (also known as Four Up, Plot Four, Find Four, Four in a Row, Four in a Line, Drop Four, and Gravitrips (in Soviet Union)) is a two-player board game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
+Space Invaders is a simple grid-based game in which you as the shooter have to shoot down as many alien invaders before they get to you. We are going to build a 15 x 15 grid square with 20 invaders to shoot. 
 
-In this repo, I will be putting extra focus on for loops. If you want to learn how to use for loops effectively, please have a look at my code.
+In this repo, I will be putting extra focus on for loops and classLists in JavaScript. If you want to learn how to use these loops and classLists effectively, please have a look at my code.
 
-## What inbuilt functions are we going to focus on?
+
+### We are also going to be looking at:
 * for loops
 * addEventListener
-* setInterval
+* classList
 * document.querySelector
-* arrow functions
+* Timeout
+* switch case
 
-## Rules of Connect Four
-* You will start as player One
-* You will take your go as player One
-* You will not be allowed to go in squares that are not at the bottom of the grid, or do not have a taken square under it
-* Once your go is taken and you did not win, It will be player Two's go
-* The gamer will continue until a winning combination of four is reached by player One or player Two, or until the grid is full and no winning combination was found.
+As always I have kept the styling at a bare minimum for you to go wild and make it your own.
 
 
 ### MIT Licence
